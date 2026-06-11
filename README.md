@@ -1,4 +1,4 @@
-# AI-Powered Hand Gesture Control System
+## Hand Gesture Control System
 
 ## Overview
 
