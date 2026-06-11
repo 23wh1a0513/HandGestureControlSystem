@@ -11,7 +11,7 @@ A real-time computer vision application that enables users to control mouse move
 * Scroll Up/Down Using Gestures
 * Real-Time Volume Adjustment
 * Hand Landmark Detection with MediaPipe
-* Live FPS Display
+
 
 ## Technologies Used
 
